@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nl.tudelft.jpacman.level.PlayerCollisionsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-05-25T16:45:33" hostname="LAPTOP-1IK9F399" time="0.842">
+  <properties/>
+  <testcase name="test1()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.822"/>
+  <testcase name="test2()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.01"/>
+  <testcase name="test3()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.001"/>
+  <testcase name="test4()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.001"/>
+  <testcase name="test5()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.001"/>
+  <testcase name="test6()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.001"/>
+  <testcase name="test7()" classname="nl.tudelft.jpacman.level.PlayerCollisionsTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
